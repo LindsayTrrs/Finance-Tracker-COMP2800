@@ -2,7 +2,7 @@
 // Student ID: 110130322
 /**
  * Income.java
- * -> This class represents an expense transaction and extends the Transaction class.
+ * -> This class represents an income transaction and extends the Transaction class.
  * 
  */
 public class Income extends Transaction {

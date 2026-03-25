@@ -2,8 +2,7 @@
 // Student ID: 110130322
 /**
  * Main.java
- * -> This class represents an expense transaction and extends the Transaction class.
- * 
+ * -> This is the main class to run the finance tracker application.
  */
 
 import javax.swing.*;
